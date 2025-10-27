@@ -4,7 +4,7 @@
 
 ## Overview
 - **Cloudflare** – DNS & SSL termination  
-- **Linode** – Linux virtual server (Ubuntu‑based)  
+- **Linode** – Linux virtual server 
 - **Cloudron** – Container platform that runs Mastodon (web, streaming, sidekiq, DB, Redis)
 
 ## Prerequisites
