@@ -1,7 +1,6 @@
 # Mastodon Deployment Guide
-_An open-source, federated microblogging platform (Twitter Alternative)_
 
-Deploy a production‑grade Mastodon instance on a Linode VM behind Cloudflare DNS, managed through Cloudron.
+**Open-source, Twitter-style microblogging:** Deploy a production‑grade Mastodon instance on Linode + Cloudflare, managed with Cloudron.
 
 ## Overview
 - **Cloudflare** – DNS & SSL termination  
